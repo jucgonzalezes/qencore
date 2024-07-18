@@ -45,3 +45,5 @@ python_version = "3.11"
 module = "absl"
 ignore_errors = true
 
+[tool.isort]
+profile = "black"
