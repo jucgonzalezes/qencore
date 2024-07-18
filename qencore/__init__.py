@@ -15,5 +15,5 @@ from .quantum_circuits import VQLS
 from .splines import MultisegmentConvexInterpolation1D
 
 __name__ = "qencore"
-__version__ = "0.1.0"
+__version__ = "0.2.0"
 __all__ = ["MLP", "PlainICNN", "VQLS", "MultisegmentConvexInterpolation1D"]
