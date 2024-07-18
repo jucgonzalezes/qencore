@@ -1,6 +1,6 @@
 # qencore (Quantum-Enhanced Convex Regression)
 
- [![License: Apache 2.0](https://img.shields.io/github/license/saltstack/salt)](https://opensource.org/license/apache-2-0)
+ [![License: Apache 2.0](https://img.shields.io/github/license/saltstack/salt)](https://opensource.org/license/apache-2-0) [![CI](https://github.com/jucgonzalezes/qencore/actions/workflows/ci.yml/badge.svg)](https://github.com/jucgonzalezes/qencore/actions/workflows/ci.yml)
  
 
 A Python package to perform convex interpolation using splines, Input Convex 
