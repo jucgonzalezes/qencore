@@ -43,7 +43,7 @@ jobs:
         run: poetry run ruff check .
 
       - name: Run mypy
-        run: poetry run mypy tutorials
+        run: poetry run mypy .
 
       - name: Run tests
-        run: poetry run pytest
+        run: poetry run pytest .
